@@ -6,13 +6,25 @@ body,html{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
 }
+h1{
+	font-size: 3em;
+}
 .color-primary{
-	color:rgb(56,136,251);
+	color: rgb(136, 197, 204);
+}
+.text-center{
+	text-align:center;
 }
 .img-responsive{
 	width: 100%;
 }
 .wrapper{
-	width: 100%;
+	width: 90%;
 	height: 100vh;
+	margin: 0 auto 0;
+}
+
+.logo{
+	width: 20%;
+	margin: 0 auto 0;
 }
