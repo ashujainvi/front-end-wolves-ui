@@ -1,0 +1,19 @@
+{
+  "name": "frontendwolves",
+  "version": "1.0.0",
+  "description": "front-end of the frontendwolves",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashujainvi/frontendwolves.git"
+  },
+  "author": "frontendwolves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashujainvi/frontendwolves/issues"
+  },
+  "homepage": "https://github.com/ashujainvi/frontendwolves#readme"
+}
