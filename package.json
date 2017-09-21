@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ashujainvi/frontendwolves/issues"
   },
-  "homepage": "https://github.com/ashujainvi/frontendwolves#readme"
+  "homepage": "https://github.com/ashujainvi/frontendwolves#readme",
+  "dependencies": {
+    "angular": "^1.6.6"
+  }
 }
